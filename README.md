@@ -29,7 +29,7 @@ additional improvments, this list is not exhaustive.
 ### Positions show page
 * format date to something more human readable
 * Don't show ended\_at if not present
-* Format salary as number with '&' symbol
+* Format salary as number with '$' symbol
 * Display the percentile of the salary compared to the rest of the company
 * List the number of days in that position
 * Split evalution paragraphs so that each line is in a paragraph tag
