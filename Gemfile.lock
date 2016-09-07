@@ -99,7 +99,7 @@ DEPENDENCIES
   rspec
   shotgun
   shoulda-matchers
-  sinatra
+  sinatra (~> 1.0)
   sinatra-contrib
 
 BUNDLED WITH
